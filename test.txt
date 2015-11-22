@@ -1,1 +1,3 @@
 Hi
+==
+deze regel is een aanpassing vanuit eigen computeren vervolgens sync via GitHub app.
